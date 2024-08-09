@@ -5,7 +5,7 @@
       "project_name": "Car Rental Website",
       "added_on": "Jul 04, 2024 03:13:49",
       "description": "A car rental web application built with Laravel, MySQL, JavaScript, and CSS allows users to browse, book, and manage car rentals. It includes user authentication and real-time availability. An admin panel manages rented cars, reservations, clients, and employees, with the ability to add new employees. Clients have the right to create accounts, log in, and manage their profiles and bookings. For users without an account, an account is automatically created upon completing the booking form, and all information is provided in the booking receipt, which can be downloaded as a PDF",
-      "hosted_link": null,
+      "hosted_link": "#nothosted",
       "default_image": "/images/project1_default_image.png",
       "demo_video": "/videos/car_rental_site.mp4",
       "demo_images":null,
