@@ -7,7 +7,7 @@
       "description": "-",
       "demo_video": "link-to-video",
       "demo_images": [
-        "../assets/images/project1_image_main.png",
+        "path-to-image1",
         "path-to-image2",
         "path-to-image3"
       ],
