@@ -59,7 +59,11 @@
       "hosted_link": "https://idri-clonefsdm1.netlify.app/",
       "default_image": "/images/project4_default_image.png",
       "demo_video": null,
-      "demo_images": null,
+      "demo_images": [
+      "/images/project4_default_image.png",
+      "/images/project4_1.png",
+      "/images/project4_2.png"
+      ],
       "used_technologies": [
         "Reactjs",
         "CSS",
