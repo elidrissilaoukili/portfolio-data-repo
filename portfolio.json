@@ -2,876 +2,216 @@
   "projects": [
     {
       "id": "1",
-      "project_name": "React Native Developer 1",
-      "added_on": "time",
-      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "/images/project1_image_main.png",
-        "path-to-image2",
-        "path-to-image3"
-      ],
+      "project_name": "Car Rental Website",
+      "added_on": "Jul 04, 2024 03:13:49",
+      "description": "A car rental web application built with Laravel, MySQL, JavaScript, and CSS allows users to browse, book, and manage car rentals. It includes user authentication and real-time availability. An admin panel manages rented cars, reservations, clients, and employees, with the ability to add new employees. Clients have the right to create accounts, log in, and manage their profiles and bookings. For users without an account, an account is automatically created upon completing the booking form, and all information is provided in the booking receipt, which can be downloaded as a PDF",
+      "hosted_link": null,
+      "default_image": "/images/project1_default_image.png",
+      "demo_video": "/videos/car_rental_site.mp4",
+      "demo_images":null,
+      "used_technologies": [
+        "PHP/Laravel",
+        "HTML",
+        "CSS",
+        "JS",
+        "Bootstrap 5",
+        "jQuery",
+        "AJAX",
+        "Font Awesome",
+        "Google Fonts"
+      ]
+    },
+    {
+      "id": "2",
+      "project_name": "A static education website",
+      "added_on": "Jul 04, 2024 03:14:22",
+      "description": "The website `IdriLogic` offers various educational resources in programming and related subjects. It features courses on HTML, CSS, JavaScript, Python, C, and Linux/Unix, as well as tutorials for SMAI and SMPC. The site includes sections on the importance of math, physics, and English in programming, and provides information on popular programming languages. Users can contact the site for questions and download information in PDF format. The website emphasizes a comprehensive approach to learning with a focus on practical applications and real-world examples.",
+      "hosted_link": "https://idri.netlify.app",
+      "default_image": "/images/project2_default_image.png",
+      "demo_video": null,
+      "demo_images": null,
+      "used_technologies": [
+        "HTML",
+        "CSS",
+        "JS"
+      ]
+    },
+    {
+      "id": "3",
+      "project_name": "login interface for students (clone)",
+      "added_on": "Jul 04, 2024 03:14:32",
+      "description": "The landing page is a login interface for students of FSDM. It requires users to enter their CNE (or MASSAR) and CIN (NIC) credentials to access the student area. The page emphasizes that passwords must be more than eight characters long and that both CNE and CIN should be in uppercase without spaces. There is also a `Remember me` option for users.",
+      "hosted_link": "https://idri-clonefsdmlogin.netlify.app",
+      "default_image": "/images/project3_default_image.png",
+      "demo_video": null,
+      "demo_images": null,
+      "used_technologies": [
+        "HTML",
+        "CSS",
+        "JS"
+      ]
+    },
+    {
+      "id": "4",
+      "project_name": "Student Area",
+      "added_on": "Jul 05, 2024 07:55:03",
+      "description": "The website is a clone project showcasing a landing page for FSDM - University Sidi Mohamed Ben Abdellah. It is designed to announce exam locations for each module. The site features a modern, responsive design and is built using React for the front-end development.",
+      "hosted_link": "https://idri-clonefsdm1.netlify.app/",
+      "default_image": "/images/project4_default_image.png",
+      "demo_video": null,
+      "demo_images": null,
       "used_technologies": [
         "Reactjs",
+        "CSS",
+        "BOOTSRAP"
+      ]
+    },
+    {
+      "id": "5",
+      "project_name": "School System",
+      "added_on": "Jul 10, 2024 03:57:30",
+      "description": "The site is a dynamic web application developed by Mohammed Elidrissi Laoukili for managing posts. It utilizes JavaScript and browser local storage to handle data, allowing users to create, update, and delete posts directly from the browser without needing a backend server. The interface is user-friendly and responsive, designed to work well on both desktop and mobile devices. This project demonstrates Mohammed's web development skills and his ability to build interactive applications.",
+      "hosted_link": "https://php-fsdm-tp1.netlify.app",
+      "default_image": "/images/project5_default_image.png",
+      "demo_video": null,
+      "demo_images": null,
+      "used_technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "6",
+      "project_name": "TO DO LIST",
+      "added_on": "Jul 10, 2024 05:29:47",
+      "description": "Welcome to IDRI Tasks! This website is designed to streamline your task management experience with intuitive features for organizing, prioritizing, and tracking tasks efficiently. Whether you're managing personal projects or team assignments, IDRI Tasks offers a user-friendly interface to keep you productive and organized. Explore our tools and start managing your tasks effortlessly today!",
+      "hosted_link": "https://idri-tasks.netlify.app",
+      "default_image": "/images/project6_default_image.png",
+      "demo_video": "/videos/to_do_list.mp4",
+      "demo_images": null,
+      "used_technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "7",
+      "project_name": "IDRI Main: Explore, Showcase, Innovate",
+      "added_on": "Jul 10, 2024 05:44:54",
+      "description": "Welcome to IDRI Main! Discover a dynamic platform where creativity meets functionality. IDRI Main offers a seamless experience for exploring innovative projects, showcasing skills, and tracking courses in one place. Whether you're a developer, designer, or enthusiast, IDRI Main is your gateway to showcasing and enhancing your digital journey. Explore our curated content and dive into a world of inspiration today!",
+      "hosted_link": "https://idri-main.netlify.app",
+      "default_image": "/images/project7_default_image.png",
+      "demo_video": "/videos/react_landing_page.mp4",
+      "demo_images":null,
+      "used_technologies": [
+        "Reactjs",
+        "CSS",
+        "HTML",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "8",
+      "project_name": "IDRI Login Form",
+      "added_on": "Jul 10, 2024 05:49:06",
+      "description": "IDRI Login Form provides a seamless and secure way to manage user authentication. Simplify login processes with our intuitive interface, designed to enhance user experience and security. Explore our solution for streamlined access control today.",
+      "hosted_link": "https://idri-loginform.netlify.app",
+      "default_image": "/images/project8_default_image.png",
+      "demo_video": null,
+      "demo_images":[
+        "/images/project8_default_image.png"
+      ],
+      "used_technologies": [
+        "HTML",
         "CSS"
       ]
     },
     {
-      "id": "2",
-      "project_name": "New Project 2",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "3",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "4",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "5",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "6",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "7",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "8",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
       "id": "9",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
+      "project_name": "Calculator",
+      "added_on": "Jul 10, 2024 05:50:32",
+      "description": "IDRI Calculator offers a straightforward tool for performing basic and advanced mathematical calculations. With a clean interface and responsive design, it's easy to use on any device. Explore the convenience of accurate calculations with IDRI Calculator today.",
+      "hosted_link": "https://idri-calculator.netlify.app",
+      "default_image": "/images/project9_default_image.png",
+      "demo_video": "/videos/idri_calculator.mp4",
+      "demo_images": null,
       "used_technologies": [
-        "Technology1",
-        "Technology2"
+        "HTML",
+        "CSS",
+        "JavaScript"
       ]
     },
     {
       "id": "10",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
+      "project_name": "Clone Google Translate",
+      "added_on": "Jul 10, 2024 05:52:50",
+      "description": "Explore IDRI Clone Google Translate, a powerful tool for translating text between languages instantly. With a user-friendly interface inspired by Google Translate, it offers seamless translation capabilities to enhance communication across borders. Start translating with ease using IDRI Clone Google Translate today.",
+      "hosted_link": "https://idri-clonegoogletranslate.netlify.app",
+      "default_image": "/images/project10_default_image.png",
+      "demo_video": null,
+      "demo_images": null,
       "used_technologies": [
-        "Technology1",
-        "Technology2"
+        "HTML",
+        "CSS",
+        "JavaScript"
       ]
     },
     {
       "id": "11",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
+      "project_name": "Clone FSDM Moodle 2",
+      "added_on": "Jul 10, 2024 05:58:25",
+      "description": "IDRI Clone FSDM Moodle 2 offers a robust e-learning platform inspired by Moodle, designed to facilitate online education with interactive courses and resources. Explore our platform for seamless learning experiences tailored to students' needs at IDRI Clone FSDM Moodle 2.",
+      "hosted_link": "https://idri-clonefsdmmoodle2.netlify.app",
+      "default_image": "/images/project11_default_image.png",
+      "demo_video": null,
       "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
+        "/images/project11-clone_moodle_1.png",
+        "/images/project11-clone_moodle_2.png"
       ],
       "used_technologies": [
-        "Technology1",
-        "Technology2"
+        "HTML",
+        "CSS",
+        "JavaScript"
       ]
     },
     {
       "id": "12",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
+      "project_name": "Responsive Tech Page",
+      "added_on": "Jul 10, 2024 06:07:12",
+      "description": "IDRI Responsive Page showcases a dynamic and adaptable web experience crafted to seamlessly adjust to various screen sizes and devices. Explore our responsive design principles and discover how we prioritize accessibility and usability across all platforms at IDRI Responsive Page.",
+      "hosted_link": "https://idri-responsive-page.netlify.app",
+      "default_image": "/images/project12-default_image.png",
+      "demo_video": null,
+      "demo_images": null,
       "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "13",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "14",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "15",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "16",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "17",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "18",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "19",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "20",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "2",
-      "project_name": "New Project 2",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "3",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "4",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "5",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "6",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "7",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "8",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "9",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "10",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "11",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "12",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "13",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "14",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "15",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "16",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "17",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "18",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "19",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "20",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "2",
-      "project_name": "New Project 2",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "3",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "4",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "5",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "6",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "7",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "8",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "9",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "10",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "11",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "12",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "13",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "14",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "15",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "16",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "17",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "18",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "19",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
-      ]
-    },
-    {
-      "id": "20",
-      "project_name": "New Project 3",
-      "added_on": "time",
-      "description": "New project description",
-      "demo_video": "link-to-video",
-      "demo_images": [
-        "path-to-new-image1",
-        "path-to-new-image2"
-      ],
-      "used_technologies": [
-        "Technology1",
-        "Technology2"
+        "HTML",
+        "CSS",
+        "JavaScript"
       ]
     }
   ],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   "courses": [
     {
       "id": "1",
