@@ -195,9 +195,16 @@
       "added_on": "Jul 10, 2024 06:07:12",
       "description": "IDRI Responsive Page showcases a dynamic and adaptable web experience crafted to seamlessly adjust to various screen sizes and devices. Explore our responsive design principles and discover how we prioritize accessibility and usability across all platforms at IDRI Responsive Page.",
       "hosted_link": "https://idri-responsive-page.netlify.app",
-      "default_image": "/images/project12-default_image.png",
+      "default_image": "/images/project12_default_image.png",
       "demo_video": null,
-      "demo_images": null,
+      "demo_images": [
+        "/images/project12_default_image.png",
+        "/images/project12_1.png",
+        "/images/project12_2.png",
+        "/images/project12_3.png",
+        "/images/project12_4.png",
+        "/images/project12_5.png"
+      ],
       "used_technologies": [
         "HTML",
         "CSS",
