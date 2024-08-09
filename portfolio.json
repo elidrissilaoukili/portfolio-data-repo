@@ -30,6 +30,21 @@
         "Technology1",
         "Technology2"
       ]
+    },
+    {
+      "id": "3",
+      "project_name": "New Project 3",
+      "added_on": "time",
+      "description": "New project description",
+      "demo_video": "link-to-video",
+      "demo_images": [
+        "path-to-new-image1",
+        "path-to-new-image2"
+      ],
+      "used_technologies": [
+        "Technology1",
+        "Technology2"
+      ]
     }
   ],
   "courses": [
