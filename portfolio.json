@@ -159,7 +159,12 @@
       "hosted_link": "https://idri-clonegoogletranslate.netlify.app",
       "default_image": "/images/project10_default_image.png",
       "demo_video": null,
-      "demo_images": null,
+      "demo_images": [
+        "/images/project10_default_image.png",
+        "/images/project10_1.png",
+        "/images/project10_2.png",
+        "/images/project10_3.png"
+      ],
       "used_technologies": [
         "HTML",
         "CSS",
