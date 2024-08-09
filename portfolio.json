@@ -45,6 +45,96 @@
         "Technology1",
         "Technology2"
       ]
+    },
+    {
+      "id": "4",
+      "project_name": "New Project 3",
+      "added_on": "time",
+      "description": "New project description",
+      "demo_video": "link-to-video",
+      "demo_images": [
+        "path-to-new-image1",
+        "path-to-new-image2"
+      ],
+      "used_technologies": [
+        "Technology1",
+        "Technology2"
+      ]
+    },
+    {
+      "id": "5",
+      "project_name": "New Project 3",
+      "added_on": "time",
+      "description": "New project description",
+      "demo_video": "link-to-video",
+      "demo_images": [
+        "path-to-new-image1",
+        "path-to-new-image2"
+      ],
+      "used_technologies": [
+        "Technology1",
+        "Technology2"
+      ]
+    },
+    {
+      "id": "6",
+      "project_name": "New Project 3",
+      "added_on": "time",
+      "description": "New project description",
+      "demo_video": "link-to-video",
+      "demo_images": [
+        "path-to-new-image1",
+        "path-to-new-image2"
+      ],
+      "used_technologies": [
+        "Technology1",
+        "Technology2"
+      ]
+    },
+    {
+      "id": "7",
+      "project_name": "New Project 3",
+      "added_on": "time",
+      "description": "New project description",
+      "demo_video": "link-to-video",
+      "demo_images": [
+        "path-to-new-image1",
+        "path-to-new-image2"
+      ],
+      "used_technologies": [
+        "Technology1",
+        "Technology2"
+      ]
+    },
+    {
+      "id": "8",
+      "project_name": "New Project 3",
+      "added_on": "time",
+      "description": "New project description",
+      "demo_video": "link-to-video",
+      "demo_images": [
+        "path-to-new-image1",
+        "path-to-new-image2"
+      ],
+      "used_technologies": [
+        "Technology1",
+        "Technology2"
+      ]
+    },
+    {
+      "id": "9",
+      "project_name": "New Project 3",
+      "added_on": "time",
+      "description": "New project description",
+      "demo_video": "link-to-video",
+      "demo_images": [
+        "path-to-new-image1",
+        "path-to-new-image2"
+      ],
+      "used_technologies": [
+        "Technology1",
+        "Technology2"
+      ]
     }
   ],
   "courses": [
