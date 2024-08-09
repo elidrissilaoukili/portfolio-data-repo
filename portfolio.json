@@ -28,7 +28,7 @@
       "description": "The website `IdriLogic` offers various educational resources in programming and related subjects. It features courses on HTML, CSS, JavaScript, Python, C, and Linux/Unix, as well as tutorials for SMAI and SMPC. The site includes sections on the importance of math, physics, and English in programming, and provides information on popular programming languages. Users can contact the site for questions and download information in PDF format. The website emphasizes a comprehensive approach to learning with a focus on practical applications and real-world examples.",
       "hosted_link": "https://idri.netlify.app",
       "default_image": "/images/project2_default_image.png",
-      "demo_video": null,
+      "demo_video": "/videos/education_website.mp4",
       "demo_images": null,
       "used_technologies": [
         "HTML",
