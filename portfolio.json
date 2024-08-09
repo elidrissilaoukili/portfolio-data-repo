@@ -78,7 +78,13 @@
       "hosted_link": "https://php-fsdm-tp1.netlify.app",
       "default_image": "/images/project5_default_image.png",
       "demo_video": null,
-      "demo_images": null,
+      "demo_images": [
+        "/images/project5_default_image.png",
+        "/images/project5_1.png",
+        "/images/project5_2.png",
+        "/images/project5_3.png",
+        "/images/project5_4.png",
+      ],
       "used_technologies": [
         "HTML",
         "CSS",
