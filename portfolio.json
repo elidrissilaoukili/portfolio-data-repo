@@ -227,7 +227,7 @@
 
 
 
-  courses = [
+  courses: [
     {
       id: "1",
       course_title: "React Native Developer",
