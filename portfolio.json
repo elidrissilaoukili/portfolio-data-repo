@@ -130,9 +130,7 @@
       "hosted_link": "https://idri-loginform.netlify.app",
       "default_image": "/images/project8_default_image.png",
       "demo_video": null,
-      "demo_images":[
-        "/images/project8_default_image.png"
-      ],
+      "demo_images":null,
       "used_technologies": [
         "HTML",
         "CSS"
