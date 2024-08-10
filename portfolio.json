@@ -230,33 +230,53 @@
   "courses": [
     {
       "id": "1",
-      "course_title": "React Native Developer",
+      "course_title": "React Crash Course 2024",
       "platform": "YouTube",
-      "instructor": "Mohammed",
-      "duration": "4:20:39",
-      "description": "-",
-      "date_completed": "Dec 2022",
+      "instructor": "Traversy Media",
+      "duration": "3:04:35",
+      "description": "Learn the basics of React",
+      "date_completed": "July 2024",
       "tags": ["React"]
     },
     {
       "id": "2",
-      "course_title": "Laravel Masterclass",
-      "platform": "Udemy",
-      "instructor": "John Doe",
-      "duration": "6:00:00",
-      "description": "-",
-      "date_completed": "Jan 2023",
-      "tags": ["Laravel"]
+      "course_title": "Python Tutorial",
+      "platform": "YouTube",
+      "instructor": "Mosh Hamedani",
+      "duration": "6:14:06",
+      "description": "Python Full Course for Beginners",
+      "date_completed": "August 2022",
+      "tags": ["Python"]
     },
     {
-      "id": "3",
-      "course_title": "Full Stack Developer",
-      "platform": "Coursera",
-      "instructor": "Jane Smith",
-      "duration": "10:00:00",
-      "description": "-",
-      "date_completed": "Feb 2023",
-      "tags": ["React", "Laravel"]
+      "id": "28",
+      "course_title": "HTML Crash Course For Absolute Beginners",
+      "platform": "YouTube",
+      "instructor": "Traversy Media",
+      "duration": "1:00:41",
+      "description": "HTML Tags",
+      "date_completed": "April 2021",
+      "tags": ["HTML"]
+    },
+    {
+      "id": "29",
+      "course_title": "CSS Crash Course For Absolute Beginners",
+      "platform": "YouTube",
+      "instructor": "Traversy Media",
+      "duration": "1:25:10",
+      "description": "Styling components",
+      "date_completed": "April 2021",
+      "tags": ["CSS"]
+    },
+    {
+      "id": "30",
+      "course_title": "JavaScript Crash Course For Beginners",
+      "platform": "YouTube",
+      "instructor": "Traversy Media",
+      "duration": "1:40:29",
+      "description": "Basics of JS",
+      "date_completed": "April 2021",
+      "tags": ["JS"]
     }
   ]
 }
