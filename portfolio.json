@@ -278,6 +278,46 @@
         "date_completed": "January 2024",
         "tags": ["Laravel"]
       },
+      {
+        "id": "6",
+        "course_title": "Laravel 11, React",
+        "platform": "YouTube",
+        "instructor": "The Codeholic",
+        "duration": "3:13:18",
+        "description": "Full-stack Application",
+        "date_completed": "January 2024",
+        "tags": ["Laravel", "React"]
+      },
+      {
+        "id": "7",
+        "course_title": "C Language",
+        "platform": "YouTube",
+        "instructor": "Bro Code",
+        "duration": "4:05:00",
+        "description": "Full Course",
+        "date_completed": "November 2022",
+        "tags": ["C"]
+      },
+      {
+        "id": "8",
+        "course_title": "C++ Language",
+        "platform": "YouTube",
+        "instructor": "Bro Code",
+        "duration": "6:00:00",
+        "description": "Full Course",
+        "date_completed": "April 2023",
+        "tags": ["C++"]
+      },
+      {
+        "id": "9",
+        "course_title": "Java Language",
+        "platform": "YouTube",
+        "instructor": "Bro Code",
+        "duration": "11:59:59",
+        "description": "Full Course",
+        "date_completed": "December 2023",
+        "tags": ["Java"]
+      },
     {
       "id": "28",
       "course_title": "HTML Crash Course For Absolute Beginners",
