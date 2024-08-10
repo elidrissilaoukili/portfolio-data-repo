@@ -230,7 +230,7 @@
   "courses": [
     {
       "id": "1",
-      "course_title": "React Crash Course 2024",
+      "course_title": "React Course 2024",
       "platform": "YouTube",
       "instructor": "Traversy Media",
       "duration": "3:04:35",
@@ -244,7 +244,7 @@
         "platform": "YouTube",
         "instructor": "Mosh Hamedani",
         "duration": "6:14:06",
-        "description": "Python Full Course for Beginners",
+        "description": "For Beginners",
         "date_completed": "August 2022",
         "tags": ["Python"]
       },
@@ -320,31 +320,31 @@
       },
     {
       "id": "28",
-      "course_title": "HTML Crash Course For Absolute Beginners",
+      "course_title": "HTML Course",
       "platform": "YouTube",
       "instructor": "Traversy Media",
       "duration": "1:00:41",
-      "description": "HTML Tags",
+      "description": "For Beginners",
       "date_completed": "April 2021",
       "tags": ["HTML"]
     },
     {
       "id": "29",
-      "course_title": "CSS Crash Course For Absolute Beginners",
+      "course_title": "CSS Course ",
       "platform": "YouTube",
       "instructor": "Traversy Media",
       "duration": "1:25:10",
-      "description": "Styling components",
+      "description": "For Beginners",
       "date_completed": "April 2021",
       "tags": ["CSS"]
     },
     {
       "id": "30",
-      "course_title": "JavaScript Crash Course For Beginners",
+      "course_title": "JavaScript Course",
       "platform": "YouTube",
       "instructor": "Traversy Media",
       "duration": "1:40:29",
-      "description": "Basics of JS",
+      "description": "For Beginners",
       "date_completed": "April 2021",
       "tags": ["JS"]
     }
