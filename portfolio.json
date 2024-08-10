@@ -238,7 +238,46 @@
       "date_completed": "July 2024",
       "tags": ["React"]
     },
-   
+    {
+        "id": "2",
+        "course_title": "Python Tutorial",
+        "platform": "YouTube",
+        "instructor": "Mosh Hamedani",
+        "duration": "6:14:06",
+        "description": "Python Full Course for Beginners",
+        "date_completed": "August 2022",
+        "tags": ["Python"]
+      },
+      {
+        "id": "3",
+        "course_title": "PHP Tutorial",
+        "platform": "YouTube",
+        "instructor": "Net Ninja",
+        "duration": "06:07:43",
+        "description": "For Beginners",
+        "date_completed": "August 2022",
+        "tags": ["PHP"]
+      },
+      {
+        "id": "4",
+        "course_title": "SQL Tutorial",
+        "platform": "YouTube",
+        "instructor": "freeCodeCamp.org",
+        "duration": "4:20:38",
+        "description": "For Beginners",
+        "date_completed": "November 2023",
+        "tags": ["SQL"]
+      },
+      {
+        "id": "5",
+        "course_title": "Laravel 8",
+        "platform": "YouTube",
+        "instructor": "Quick Programming",
+        "duration": "21:10:33",
+        "description": "Basics Tutorial",
+        "date_completed": "January 2024",
+        "tags": ["Laravel"]
+      },
     {
       "id": "28",
       "course_title": "HTML Crash Course For Absolute Beginners",
