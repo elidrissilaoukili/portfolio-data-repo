@@ -227,36 +227,36 @@
 
 
 
-  courses: [
+  "courses": [
     {
-      id: "1",
-      course_title: "React Native Developer",
-      platform: "YouTube",
-      instructor: "Mohammed",
-      duration: "4:20:39",
-      description: "-",
-      date_completed: "Dec 2022",
-      tags: ["React"]
+      "id": "1",
+      "course_title": "React Native Developer",
+      "platform": "YouTube",
+      "instructor": "Mohammed",
+      "duration": "4:20:39",
+      "description": "-",
+      "date_completed": "Dec 2022",
+      "tags": ["React"]
     },
     {
-      id: "2",
-      course_title: "Laravel Masterclass",
-      platform: "Udemy",
-      instructor: "John Doe",
-      duration: "6:00:00",
-      description: "-",
-      date_completed: "Jan 2023",
-      tags: ["Laravel"]
+      "id": "2",
+      "course_title": "Laravel Masterclass",
+      "platform": "Udemy",
+      "instructor": "John Doe",
+      "duration": "6:00:00",
+      "description": "-",
+      "date_completed": "Jan 2023",
+      "tags": ["Laravel"]
     },
     {
-      id: "3",
-      course_title: "Full Stack Developer",
-      platform: "Coursera",
-      instructor: "Jane Smith",
-      duration: "10:00:00",
-      description: "-",
-      date_completed: "Feb 2023",
-      tags: ["React", "Laravel"]
+      "id": "3",
+      "course_title": "Full Stack Developer",
+      "platform": "Coursera",
+      "instructor": "Jane Smith",
+      "duration": "10:00:00",
+      "description": "-",
+      "date_completed": "Feb 2023",
+      "tags": ["React", "Laravel"]
     }
   ]
 }
