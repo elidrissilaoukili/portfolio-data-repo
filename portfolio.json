@@ -277,6 +277,54 @@
       "description": "Basics of JS",
       "date_completed": "April 2021",
       "tags": ["JS"]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    {
+      "id": "28",
+      "course_title": "HTML Crash Course For Absolute Beginners",
+      "platform": "YouTube",
+      "instructor": "Traversy Media",
+      "duration": "1:00:41",
+      "description": "HTML Tags",
+      "date_completed": "April 2021",
+      "tags": ["HTML"]
+    },
+    {
+      "id": "29",
+      "course_title": "CSS Crash Course For Absolute Beginners",
+      "platform": "YouTube",
+      "instructor": "Traversy Media",
+      "duration": "1:25:10",
+      "description": "Styling components",
+      "date_completed": "April 2021",
+      "tags": ["CSS"]
+    },
+    {
+      "id": "30",
+      "course_title": "JavaScript Crash Course For Beginners",
+      "platform": "YouTube",
+      "instructor": "Traversy Media",
+      "duration": "1:40:29",
+      "description": "Basics of JS",
+      "date_completed": "April 2021",
+      "tags": ["JS"]
     }
   ]
 }
