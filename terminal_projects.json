@@ -41,6 +41,17 @@
                     "program_src_code": "https://www.programiz.com/online-compiler/8Q1Wq0prvjZkS"
                 }
             ]
+        },
+
+        {
+            "lang": "Java",
+            "java": [
+                {
+                    "program_name": "Kaprekar constant",
+                    "program_src_code": "https://www.programiz.com/online-compiler/8iJrfe5FdPKe1"
+                }
+            ]
         }
+
     ]
 }
