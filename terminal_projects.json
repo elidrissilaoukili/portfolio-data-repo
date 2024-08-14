@@ -6,6 +6,14 @@
                 {
                     "program_name": "Sort names in Alphabetical order",
                     "program_src_code": "https://www.programiz.com/online-compiler/3P74m7QIUleyD"
+                },
+                {
+                    "program_name": "Bubble sort",
+                    "program_src_code": "https://www.programiz.com/online-compiler/3P74m7QIUleyD"
+                },
+                {
+                    "program_name": "selection sort",
+                    "program_src_code": "https://www.programiz.com/online-compiler/3P74m7QIUleyD"
                 }
             ]
         },
