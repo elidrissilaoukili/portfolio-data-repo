@@ -9,7 +9,15 @@
         ]
     },
 
-
+    {
+        "lang": "C++",
+        "cpp": [
+            {
+                "program_name": "Sort names in Alphabetical order",
+                "program_src_code": "https://www.programiz.com/online-compiler/5YuD4iWDUtlJD"
+            }
+        ]
+    },
     
     {
         "lang": "PHP",
