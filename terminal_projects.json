@@ -5,7 +5,8 @@
             "c": [
                 {
                     "program_name": "Sort names in Alphabetical order",
-                    "program_src_code": "https://www.programiz.com/online-compiler/3P74m7QIUleyD"
+                    "program_src_code": "https://www.programiz.com/online-compiler/3P74m7QIUleyD",
+                    "program_explained": null
                 },
                 {
                     "program_name": "Kaprekar constant",
@@ -21,11 +22,13 @@
             "cpp": [
                 {
                     "program_name": "Sort names in Alphabetical order",
-                    "program_src_code": "https://www.programiz.com/online-compiler/5YuD4iWDUtlJD"
+                    "program_src_code": "https://www.programiz.com/online-compiler/5YuD4iWDUtlJD",
+                    "program_explained": null
                 },
                 {
                     "program_name": "Kaprekar constant",
-                    "program_src_code": "https://www.programiz.com/online-compiler/9P74yXYbklExI"
+                    "program_src_code": "https://www.programiz.com/online-compiler/9P74yXYbklExI",
+                    "program_explained": null
                 }
             ]
         },
@@ -35,11 +38,13 @@
             "php": [
                 {
                     "program_name": "Sort names in Alphabetical order",
-                    "program_src_code": "https://www.programiz.com/online-compiler/2dsS1DLr0h8O2"
+                    "program_src_code": "https://www.programiz.com/online-compiler/2dsS1DLr0h8O2",
+                    "program_explained": null
                 },
                 {
                     "program_name": "Kaprekar constant",
-                    "program_src_code": "https://www.programiz.com/online-compiler/8Q1Wq0prvjZkS"
+                    "program_src_code": "https://www.programiz.com/online-compiler/8Q1Wq0prvjZkS",
+                    "program_explained": null
                 }
             ]
         },
@@ -49,7 +54,8 @@
             "java": [
                 {
                     "program_name": "Kaprekar constant",
-                    "program_src_code": "https://www.programiz.com/online-compiler/8iJrfe5FdPKe1"
+                    "program_src_code": "https://www.programiz.com/online-compiler/8iJrfe5FdPKe1",
+                    "program_explained": null
                 }
             ]
         }
