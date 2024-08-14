@@ -1,31 +1,33 @@
-[
-    {
-        "lang": "C",
-        "c": [
-            {
-                "program_name": "Sort names in Alphabetical order",
-                "program_src_code": "https://www.programiz.com/online-compiler/3P74m7QIUleyD"
-            }
-        ]
-    },
-
-    {
-        "lang": "C++",
-        "cpp": [
-            {
-                "program_name": "Sort names in Alphabetical order",
-                "program_src_code": "https://www.programiz.com/online-compiler/5YuD4iWDUtlJD"
-            }
-        ]
-    },
+{
+    "terminal_projects": [
+        {
+            "lang": "C",
+            "c": [
+                {
+                    "program_name": "Sort names in Alphabetical order",
+                    "program_src_code": "https://www.programiz.com/online-compiler/3P74m7QIUleyD"
+                }
+            ]
+        },
     
-    {
-        "lang": "PHP",
-        "php": [
-            {
-                "program_name": "Sort names in Alphabetical order",
-                "program_src_code": "https://www.programiz.com/online-compiler/2dsS1DLr0h8O2"
-            }
-        ]
-    }
-]
+        {
+            "lang": "C++",
+            "cpp": [
+                {
+                    "program_name": "Sort names in Alphabetical order",
+                    "program_src_code": "https://www.programiz.com/online-compiler/5YuD4iWDUtlJD"
+                }
+            ]
+        },
+        
+        {
+            "lang": "PHP",
+            "php": [
+                {
+                    "program_name": "Sort names in Alphabetical order",
+                    "program_src_code": "https://www.programiz.com/online-compiler/2dsS1DLr0h8O2"
+                }
+            ]
+        }
+    ]
+}
