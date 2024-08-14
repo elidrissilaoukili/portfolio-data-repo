@@ -1,1 +1,124 @@
-
+{
+  "courses": [
+    {
+      "id": "1",
+      "course_title": "React Course 2024",
+      "platform": "YouTube",
+      "instructor": "Traversy Media",
+      "duration": "3:04:35",
+      "description": "Learn the basics of React",
+      "date_completed": "July 2024",
+      "tags": ["React"]
+    },
+    {
+        "id": "2",
+        "course_title": "Python Tutorial",
+        "platform": "YouTube",
+        "instructor": "Mosh Hamedani",
+        "duration": "6:14:06",
+        "description": "For Beginners",
+        "date_completed": "August 2022",
+        "tags": ["Python"]
+      },
+      {
+        "id": "3",
+        "course_title": "PHP Tutorial",
+        "platform": "YouTube",
+        "instructor": "Net Ninja",
+        "duration": "06:07:43",
+        "description": "For Beginners",
+        "date_completed": "August 2022",
+        "tags": ["PHP"]
+      },
+      {
+        "id": "4",
+        "course_title": "SQL Tutorial",
+        "platform": "YouTube",
+        "instructor": "freeCodeCamp.org",
+        "duration": "4:20:38",
+        "description": "For Beginners",
+        "date_completed": "November 2023",
+        "tags": ["SQL"]
+      },
+      {
+        "id": "5",
+        "course_title": "Laravel 8",
+        "platform": "YouTube",
+        "instructor": "Quick Programming",
+        "duration": "21:10:33",
+        "description": "Basics Tutorial",
+        "date_completed": "January 2024",
+        "tags": ["Laravel"]
+      },
+      {
+        "id": "6",
+        "course_title": "Laravel 11, React",
+        "platform": "YouTube",
+        "instructor": "The Codeholic",
+        "duration": "3:13:18",
+        "description": "Full-stack Application",
+        "date_completed": "January 2024",
+        "tags": ["Laravel", "React"]
+      },
+      {
+        "id": "7",
+        "course_title": "C Language",
+        "platform": "YouTube",
+        "instructor": "Bro Code",
+        "duration": "4:05:00",
+        "description": "Full Course",
+        "date_completed": "November 2022",
+        "tags": ["C"]
+      },
+      {
+        "id": "8",
+        "course_title": "C++ Language",
+        "platform": "YouTube",
+        "instructor": "Bro Code",
+        "duration": "6:00:00",
+        "description": "Full Course",
+        "date_completed": "April 2023",
+        "tags": ["C++"]
+      },
+      {
+        "id": "9",
+        "course_title": "Java Language",
+        "platform": "YouTube",
+        "instructor": "Bro Code",
+        "duration": "11:59:59",
+        "description": "Full Course",
+        "date_completed": "December 2023",
+        "tags": ["Java"]
+      },
+    {
+      "id": "28",
+      "course_title": "HTML Course",
+      "platform": "YouTube",
+      "instructor": "Traversy Media",
+      "duration": "1:00:41",
+      "description": "For Beginners",
+      "date_completed": "April 2021",
+      "tags": ["HTML"]
+    },
+    {
+      "id": "29",
+      "course_title": "CSS Course ",
+      "platform": "YouTube",
+      "instructor": "Traversy Media",
+      "duration": "1:25:10",
+      "description": "For Beginners",
+      "date_completed": "April 2021",
+      "tags": ["CSS"]
+    },
+    {
+      "id": "30",
+      "course_title": "JavaScript Course",
+      "platform": "YouTube",
+      "instructor": "Traversy Media",
+      "duration": "1:40:29",
+      "description": "For Beginners",
+      "date_completed": "April 2021",
+      "tags": ["JS"]
+    }
+  ]
+}
