@@ -3,17 +3,17 @@
         {
             "id": 1,
             "course_title": "C Language full course",
-            "course_link": "https://youtu.be/hJRz_inyr4w?si=-JgZnSzT_kkFF_yd",
+            "course_link": "https://youtu.be/hJRz_inyr4w?si=-JgZnSzT_kkFF_yd"
         },
         {
             "id": 2,
             "course_title": "Compilation Cours Complet",
-            "course_link": "https://youtu.be/32T4zGZs5_Y?si=YZcxBLBzrr2bePrv",
+            "course_link": "https://youtu.be/32T4zGZs5_Y?si=YZcxBLBzrr2bePrv"
         },
         {
             "id": 3,
             "course_title": "Linux Course",
-            "course_link": "https://youtu.be/Go_CrUdULBs?si=jlHTdzJqkjiVhFMo",
+            "course_link": "https://youtu.be/Go_CrUdULBs?si=jlHTdzJqkjiVhFMo"
         }
     ]
 }
