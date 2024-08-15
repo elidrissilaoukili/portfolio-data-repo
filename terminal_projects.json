@@ -73,7 +73,52 @@
                     "program_explained": null
                 }
             ]
-        }
+        },
 
+        {
+            "lang": "Sorts On C/CPP",
+            "sorts": [
+                {
+                    "program_name": "Quick sort",
+                    "program_src_code": "https://www.programiz.com/online-compiler/3G4AhC472NUE5",
+                    "program_explained": null
+                },
+                {
+                    "program_name": "Merge sort",
+                    "program_src_code": "https://www.programiz.com/online-compiler/82EuM3N9UfHBR",
+                    "program_explained": null
+                },
+                {
+                    "program_name": "Bubble sort with pointers",
+                    "program_src_code": "https://www.programiz.com/online-compiler/3dsSzsS3GhnNN",
+                    "program_explained": null
+                },
+                {
+                    "program_name": "Recursive Bubble sort with pointers",
+                    "program_src_code": "https://www.programiz.com/online-compiler/80nRa27dXUkbn",
+                    "program_explained": null
+                },
+                {
+                    "program_name": "Selection sort with pointers",
+                    "program_src_code": "https://www.programiz.com/online-compiler/9DM1v2Je90dZa",
+                    "program_explained": null
+                },
+                {
+                    "program_name": "Recursive Selection sort with pointers",
+                    "program_src_code": "https://www.programiz.com/online-compiler/8lOwFYEnDXu35",
+                    "program_explained": null
+                },
+                {
+                    "program_name": "Insertion sort with pointers",
+                    "program_src_code": "https://www.programiz.com/online-compiler/1dsSzTfeyhDmx",
+                    "program_explained": null
+                },
+                {
+                    "program_name": "Recursive Insertion sort with pointers",
+                    "program_src_code": "https://www.programiz.com/online-compiler/3gft0Nso7uFgd",
+                    "program_explained": null
+                }
+            ]
+        }
     ]
 }
