@@ -15,35 +15,20 @@
             "course_title": "Linux Course",
             "course_link": "https://youtu.be/Go_CrUdULBs?si=jlHTdzJqkjiVhFMo"
         },
-       {
+        {
             "id": 4,
-            "course_title": "C Language full course",
-            "course_link": "https://youtu.be/hJRz_inyr4w?si=-JgZnSzT_kkFF_yd"
+            "course_title": "clone moodle plateform | login page",
+            "course_link": "https://youtu.be/Zg6ArNGhyTk?si=oxW8VhMmPzpGM2Dt"
         },
         {
             "id": 5,
-            "course_title": "Compilation Cours Complet",
-            "course_link": "https://youtu.be/32T4zGZs5_Y?si=YZcxBLBzrr2bePrv"
+            "course_title": "HTML crash course for absolute beginners",
+            "course_link": "https://youtu.be/nQmATWrG6vo?si=ufbpDOcW6KYJT5Je"
         },
         {
             "id": 6,
-            "course_title": "Linux Course",
-            "course_link": "https://youtu.be/Go_CrUdULBs?si=jlHTdzJqkjiVhFMo"
-        },
-       {
-            "id": 7,
-            "course_title": "C Language full course",
-            "course_link": "https://youtu.be/hJRz_inyr4w?si=-JgZnSzT_kkFF_yd"
-        },
-        {
-            "id": 8,
-            "course_title": "Compilation Cours Complet",
-            "course_link": "https://youtu.be/32T4zGZs5_Y?si=YZcxBLBzrr2bePrv"
-        },
-        {
-            "id": 9,
-            "course_title": "Linux Course",
-            "course_link": "https://youtu.be/Go_CrUdULBs?si=jlHTdzJqkjiVhFMo"
+            "course_title": "CSS crash course for absolute beginners",
+            "course_link": "https://youtu.be/NkbRxPvaNrk?si=_RN0CzBvOfRiVEam"
         }
     ]
 }
