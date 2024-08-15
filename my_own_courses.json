@@ -30,29 +30,10 @@
             "course_title": "CSS crash course for absolute beginners",
             "course_link": "https://youtu.be/NkbRxPvaNrk?si=_RN0CzBvOfRiVEam"
         },
-
-
-
-        
         {
-            "id": 3,
-            "course_title": "Linux Course",
-            "course_link": "https://youtu.be/Go_CrUdULBs?si=jlHTdzJqkjiVhFMo"
-        },
-        {
-            "id": 4,
-            "course_title": "clone moodle plateform | login page",
-            "course_link": "https://youtu.be/Zg6ArNGhyTk?si=oxW8VhMmPzpGM2Dt"
-        },
-        {
-            "id": 5,
-            "course_title": "HTML crash course for absolute beginners",
-            "course_link": "https://youtu.be/nQmATWrG6vo?si=ufbpDOcW6KYJT5Je"
-        },
-        {
-            "id": 6,
-            "course_title": "CSS crash course for absolute beginners",
-            "course_link": "https://youtu.be/NkbRxPvaNrk?si=_RN0CzBvOfRiVEam"
+            "id": 7,
+            "course_title": "Cours d'électronique numérique SMI S3",
+            "course_link": "https://youtube.com/playlist?list=PLp0l4Vb6qlXTWUc2A5xj9cG4U3R7__TkZ&si=y1jZW-UQWKsZLR0U"
         }
     ]
 }
