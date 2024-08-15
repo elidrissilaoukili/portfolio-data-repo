@@ -55,6 +55,11 @@
                     "program_name": "Kaprekar constant",
                     "program_src_code": "https://www.programiz.com/online-compiler/8Q1Wq0prvjZkS",
                     "program_explained": null
+                },
+                {
+                    "program_name": "Sum of n O(1) & O(n)",
+                    "program_src_code": "https://onlinephp.io/c/703cd",
+                    "program_explained": null
                 }
             ]
         },
