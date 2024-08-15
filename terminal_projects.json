@@ -12,6 +12,11 @@
                     "program_name": "Kaprekar constant",
                     "program_src_code": "https://www.programiz.com/online-compiler/9G4AtGFvONcQK",
                     "program_explained": "https://youtu.be/SgnlbWd6q6c?si=3XBi_5JwpU4C_OmY"
+                },
+                {
+                    "program_name": "Sum of n O(1) & O(n)",
+                    "program_src_code": "https://www.programiz.com/online-compiler/5ZzpafH5qchCl",
+                    "program_explained": null
                 }
                 
             ]
@@ -28,6 +33,11 @@
                 {
                     "program_name": "Kaprekar constant",
                     "program_src_code": "https://www.programiz.com/online-compiler/9P74yXYbklExI",
+                    "program_explained": null
+                },
+                {
+                    "program_name": "Sum of n O(1) & O(n)",
+                    "program_src_code": "https://www.programiz.com/online-compiler/3Q1WFRBw8jGFo",
                     "program_explained": null
                 }
             ]
