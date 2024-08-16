@@ -13,8 +13,13 @@
                     "program_src_code": "https://www.programiz.com/online-compiler/9G4AtGFvONcQK",
                     "program_explained": "https://youtu.be/SgnlbWd6q6c?si=3XBi_5JwpU4C_OmY"
                 },
+               {
+                    "program_name": "Harshad number",
+                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/blob/main/algorithms/harshad_number.c",
+                    "program_explained": null
+                },
                 {
-                    "program_name": "Sum of n O(1) & O(n)",
+                    "program_name": "Sum of n - O(1) & O(n)",
                     "program_src_code": "https://www.programiz.com/online-compiler/5ZzpafH5qchCl",
                     "program_explained": null
                 }
@@ -32,7 +37,7 @@
                 },
                 {
                     "program_name": "Kaprekar constant",
-                    "program_src_code": "https://www.programiz.com/online-compiler/9P74yXYbklExI",
+                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/blob/main/algorithms/kaprekar_constant.cpp",
                     "program_explained": null
                 },
                 {
@@ -126,12 +131,12 @@
             "data_structure": [
                 {
                     "program_name": "Binary Search c/c++",
-                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithm/blob/main/search%20cpp/binarySearch.cpp",
+                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/blob/main/search%20cpp/binarySearch.cpp",
                     "program_explained": "https://youtu.be/dfkNA-OxSQk?si=p14ili0XQZg2mvNM"
                 },
                 {
                     "program_name": "Linear Search c/c++",
-                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithm/blob/main/search%20cpp/linearSearch.cpp",
+                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/blob/main/search%20cpp/linearSearch.cpp",
                     "program_explained": null
                 }
             ]
