@@ -76,7 +76,7 @@
         },
 
         {
-            "lang": "Sorts On C/CPP",
+            "lang": "Sorts C/CPP",
             "sorts": [
                 {
                     "program_name": "Quick sort",
@@ -125,13 +125,13 @@
             "lang": "Data Structure",
             "data_structure": [
                 {
-                    "program_name": "Binary Search",
-                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure/blob/main/search%20cpp/binarySearch.cpp",
+                    "program_name": "Binary Search c/c++",
+                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithm/blob/main/search%20cpp/binarySearch.cpp",
                     "program_explained": "https://youtu.be/dfkNA-OxSQk?si=p14ili0XQZg2mvNM"
                 },
                 {
-                    "program_name": "Linear Search",
-                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure/blob/main/search%20cpp/linearSearch.cpp",
+                    "program_name": "Linear Search c/c++",
+                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithm/blob/main/search%20cpp/linearSearch.cpp",
                     "program_explained": null
                 }
             ]
