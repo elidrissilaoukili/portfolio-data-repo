@@ -4,6 +4,11 @@
             "lang": "C",
             "c": [
                 {
+                    "program_name": "Complete course of C language",
+                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/blob/main/courses/basicsOfCLang",
+                    "program_explained": "https://youtu.be/hJRz_inyr4w?si=-JgZnSzT_kkFF_yd"
+                },
+                {
                     "program_name": "Sort names in Alphabetical order",
                     "program_src_code": "https://www.programiz.com/online-compiler/3P74m7QIUleyD",
                     "program_explained": null
@@ -142,6 +147,26 @@
                 {
                     "program_name": "Linear Search c/c++",
                     "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/blob/main/search%20cpp/linearSearch.cpp",
+                    "program_explained": null
+                },
+                {
+                    "program_name": "Singly Linked list c/c++",
+                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/blob/main/linkedList/singlyLinkedList/singlyLinkedList.cpp",
+                    "program_explained": null
+                },
+                {
+                    "program_name": "Doubly Linked list c/c++",
+                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/blob/main/linkedList/doubleLinkedList/doublyLinkedList.c",
+                    "program_explained": null
+                },
+                {
+                    "program_name": "Stacks c/c++",
+                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/blob/main/stacks",
+                    "program_explained": null
+                },
+                {
+                    "program_name": "Queues c/c++",
+                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/blob/main/queues",
                     "program_explained": null
                 }
             ]
