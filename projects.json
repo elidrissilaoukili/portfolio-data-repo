@@ -42,16 +42,28 @@
       "id": "13",
       "project_name": "Simple social website",
       "added_on": "August 17, 2024",
-      "description": "",
+      "description": "Social Hub is a simple yet powerful social networking platform that allows users to share posts, comment on others' content, and manage their profiles with ease. Each user can create posts containing text, images, or a combination of both, and engage in discussions through comments. Users have full control over their content, with the ability to edit or delete their posts and comments at any time. The platform also offers a search functionality, enabling users to find others by their username and connect with them. Additionally, each user has a profile where they can update their photo, email, name, and username, making it easy to personalize their online presence. With its user-friendly interface and responsive design, Social Hub provides a seamless experience for connecting and sharing with others.",
       "hosted_link": null,
       "src_code": "https://github.com/elidrissilaoukili/simple_social_network",
-      "default_image": "/images/project2_default_image.png",
-      "demo_video": "/videos/education_website.mp4",
-      "demo_images": null,
+      "default_image": "/images/project13_default_image.png",
+      "demo_video": null,
+      "demo_images": [
+        "/images/project13_default_image.png",
+        "/images/project13_1.png",
+        "/images/project13_2.png",
+        "/images/project13_3.png",
+        "/images/project13_4.png",
+        "/images/project13_5.png",
+        "/images/project13_6.png",
+        "/images/project13_7.png"
+      ],
       "used_technologies": [
+        "PHP",
+        "AJAX",
+        "Bootstrap",
         "HTML",
         "CSS",
-        "JS"
+        "JavaScript"
       ]
     },
     {
@@ -80,9 +92,9 @@
       "default_image": "/images/project4_default_image.png",
       "demo_video": null,
       "demo_images": [
-      "/images/project4_default_image.png",
-      "/images/project4_1.png",
-      "/images/project4_2.png"
+        "/images/project4_default_image.png",
+        "/images/project4_1.png",
+        "/images/project4_2.png"
       ],
       "used_technologies": [
         "Reactjs",
