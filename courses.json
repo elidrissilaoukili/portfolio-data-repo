@@ -90,35 +90,49 @@
         "date_completed": "December 2023",
         "tags": ["Java"]
       },
-    {
-      "id": "28",
-      "course_title": "HTML Course",
-      "platform": "YouTube",
-      "instructor": "Traversy Media",
-      "duration": "1:00:41",
-      "description": "For Beginners",
-      "date_completed": "April 2021",
-      "tags": ["HTML"]
-    },
-    {
-      "id": "29",
-      "course_title": "CSS Course ",
-      "platform": "YouTube",
-      "instructor": "Traversy Media",
-      "duration": "1:25:10",
-      "description": "For Beginners",
-      "date_completed": "April 2021",
-      "tags": ["CSS"]
-    },
-    {
-      "id": "30",
-      "course_title": "JavaScript Course",
-      "platform": "YouTube",
-      "instructor": "Traversy Media",
-      "duration": "1:40:29",
-      "description": "For Beginners",
-      "date_completed": "April 2021",
-      "tags": ["JS"]
-    }
+      {
+        "id": "10",
+        "course_title": "Excel",
+        "platform": "YouTube",
+        "instructor": "Almokawil",
+        "duration": "04:12:50",
+        "description": "Full Course",
+        "date_completed": "In progress",
+        "tags": ["Excel"]
+      },
+
+
+
+
+      {
+        "id": "28",
+        "course_title": "HTML Course",
+        "platform": "YouTube",
+        "instructor": "Traversy Media",
+        "duration": "1:00:41",
+        "description": "For Beginners",
+        "date_completed": "April 2021",
+        "tags": ["HTML"]
+      },
+      {
+        "id": "29",
+        "course_title": "CSS Course ",
+        "platform": "YouTube",
+        "instructor": "Traversy Media",
+        "duration": "1:25:10",
+        "description": "For Beginners",
+        "date_completed": "April 2021",
+        "tags": ["CSS"]
+      },
+      {
+        "id": "30",
+        "course_title": "JavaScript Course",
+        "platform": "YouTube",
+        "instructor": "Traversy Media",
+        "duration": "1:40:29",
+        "description": "For Beginners",
+        "date_completed": "April 2021",
+        "tags": ["JS"]
+      }
   ]
 }
