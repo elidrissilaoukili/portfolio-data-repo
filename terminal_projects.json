@@ -168,6 +168,21 @@
                     "program_name": "Queues c/c++",
                     "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/blob/main/queues",
                     "program_explained": null
+                },
+                {
+                    "program_name": "Binary Trees c/c++",
+                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/blob/main/trees/BS.c",
+                    "program_explained": null
+                },
+                {
+                    "program_name": "Binary Search Trees c/c++",
+                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/blob/main/trees/BST.c",
+                    "program_explained": null
+                },
+                {
+                    "program_name": "AVL BST c/c++",
+                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/blob/main/trees/AVL-Tree.c",
+                    "program_explained": null
                 }
             ]
         }
