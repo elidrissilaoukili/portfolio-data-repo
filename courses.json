@@ -100,6 +100,16 @@
         "date_completed": "August 19, 2024",
         "tags": ["Excel"]
       },
+      {
+        "id": "11",
+        "course_title": "Github",
+        "platform": "YouTube",
+        "instructor": "Net Ninja",
+        "duration": "01:39:28",
+        "description": "Full Course",
+        "date_completed": "February 7, 2024",
+        "tags": ["Github"]
+      },
 
 
 
