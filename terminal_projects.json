@@ -62,6 +62,26 @@
             "lang": "PHP",
             "php": [
                 {
+                    "program_name": "Cookies",
+                    "program_src_code": "https://github.com/elidrissilaoukili/fsdm/tree/main/web/Sessions%26cookies/Cookies",
+                    "program_explained": null
+                },
+                {
+                    "program_name": "Sessions",
+                    "program_src_code": "https://github.com/elidrissilaoukili/fsdm/tree/main/web/Sessions%26cookies/Sessions",
+                    "program_explained": null
+                },
+                {
+                    "program_name": "MVC",
+                    "program_src_code": "https://github.com/elidrissilaoukili/fsdm/tree/main/web/elidrissi-mvc-prof",
+                    "program_explained": null
+                },
+                {
+                    "program_name": "MVC with authentication",
+                    "program_src_code": "https://github.com/elidrissilaoukili/fsdm/tree/main/web/elidrissi-mvc",
+                    "program_explained": null
+                },
+                {
                     "program_name": "Sort names in Alphabetical order",
                     "program_src_code": "https://www.programiz.com/online-compiler/2dsS1DLr0h8O2",
                     "program_explained": null
@@ -85,6 +105,32 @@
                 {
                     "program_name": "Kaprekar constant",
                     "program_src_code": "https://www.programiz.com/online-compiler/8iJrfe5FdPKe1",
+                    "program_explained": null
+                },
+                {
+                    "program_name": "Network Programming",
+                    "program_src_code": "https://github.com/elidrissilaoukili/fsdm/tree/main/prog.reseau",
+                    "program_explained": null
+                }
+            ]
+        },
+
+        {
+            "lang": "PL/SQL",
+            "plsql": [
+                {
+                    "program_name": "Procedures & Functions",
+                    "program_src_code": "https://github.com/elidrissilaoukili/fsdm/tree/main/plsql/PFP",
+                    "program_explained": null
+                },
+                {
+                    "program_name": "Cursors",
+                    "program_src_code": "https://github.com/elidrissilaoukili/fsdm/tree/main/plsql/cursors",
+                    "program_explained": null
+                },
+                {
+                    "program_name": "Triggers",
+                    "program_src_code": "https://github.com/elidrissilaoukili/fsdm/tree/main/plsql/triggers",
                     "program_explained": null
                 }
             ]
