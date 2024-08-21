@@ -14,13 +14,18 @@
                     "program_explained": "https://youtu.be/SgnlbWd6q6c?si=3XBi_5JwpU4C_OmY"
                 },
                 {
-                    "program_name": "Sequence: Un+1 = Un + 2*Un-1",
+                    "program_name": "Sequence: Un+1=Un+2Un-1",
                     "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/tree/main/sequences/suite1.c",
                     "program_explained": null
                 },
                 {
                     "program_name": "Sequence: Xn=(Xn-1)/2 | Xn=3(Xn-1)+1",
                     "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/tree/main/sequences/suite2.c",
+                    "program_explained": null
+                },
+                {
+                    "program_name": "Sequence: sumOf(x^(i-1) * x)",
+                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/tree/main/sequences/suite3.c",
                     "program_explained": null
                 },
                 {
