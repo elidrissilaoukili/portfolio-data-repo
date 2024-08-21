@@ -116,6 +116,42 @@
         },
 
         {
+            "lang": "Python",
+            "python": [
+                {
+                    "program_name": "Python reverse a number explains",
+                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/blob/main/python/reverse.py",
+                    "program_explained": "https://youtu.be/-k9Es3IZwDg?si=Og8kbG08DgGK9DG_"
+                },
+                {
+                    "program_name": "Calculate the summ of the previous and current number",
+                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/blob/main/python/summOfPreviousCurrent.py",
+                    "program_explained": "https://youtu.be/jTrdpQULZgg?si=ic6TEVOzuwbE6IxN"
+                },
+                {
+                    "program_name": "Do the product if greater than 1000, return the summ",
+                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/blob/main/python/productORsum.py",
+                    "program_explained": "https://youtu.be/3MaXEzq_Kms?si=hGUrOBul-QEXiHuG"
+                },
+                {
+                    "program_name": "Calculate tax income",
+                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/blob/main/python/taxIncome.py",
+                    "program_explained": "https://youtu.be/7So6It1yX6I?si=0BjqkxDJ-Nc0U4h0"
+                },
+                {
+                    "program_name": "Calculate; Exponent and the base",
+                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/blob/main/python/exponent&Base.py",
+                    "program_explained": "https://youtu.be/a_cJ8udXlas?si=oyQg-tOz3KYvIy2f"
+                },
+                {
+                    "program_name": "Multiplication table",
+                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/blob/main/python/multiplicationTable.py",
+                    "program_explained": "https://youtu.be/ZE_-QBrpoZI?si=vV6wjO24WPQUp5b1"
+                },
+            ]
+        },
+
+        {
             "lang": "PL/SQL",
             "plsql": [
                 {
