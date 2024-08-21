@@ -9,16 +9,26 @@
                     "program_explained": "https://youtu.be/hJRz_inyr4w?si=-JgZnSzT_kkFF_yd"
                 },
                 {
+                    "program_name": "Kaprekar constant",
+                    "program_src_code": "https://www.programiz.com/online-compiler/9G4AtGFvONcQK",
+                    "program_explained": "https://youtu.be/SgnlbWd6q6c?si=3XBi_5JwpU4C_OmY"
+                },
+                {
+                    "program_name": "Sequence: Un+1 = Un + 2*Un-1",
+                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/tree/main/sequences/suite1.c",
+                    "program_explained": null
+                },
+                {
+                    "program_name": "Sequence: Xn=(Xn-1)/2 | Xn=3(Xn-1)+1",
+                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/tree/main/sequences/suite2.c",
+                    "program_explained": null
+                },
+                {
                     "program_name": "Sort names in Alphabetical order",
                     "program_src_code": "https://www.programiz.com/online-compiler/3P74m7QIUleyD",
                     "program_explained": null
                 },
                 {
-                    "program_name": "Kaprekar constant",
-                    "program_src_code": "https://www.programiz.com/online-compiler/9G4AtGFvONcQK",
-                    "program_explained": "https://youtu.be/SgnlbWd6q6c?si=3XBi_5JwpU4C_OmY"
-                },
-               {
                     "program_name": "Harshad number",
                     "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/blob/main/algorithms/harshad_number.c",
                     "program_explained": null
@@ -111,7 +121,12 @@
                     "program_name": "Network Programming",
                     "program_src_code": "https://github.com/elidrissilaoukili/fsdm/tree/main/prog.reseau",
                     "program_explained": null
-                }
+                },
+                {
+                    "program_name": "Sequences",
+                    "program_src_code": "https://github.com/elidrissilaoukili/data-structure-algorithms/tree/main/sequences/Suites.java",
+                    "program_explained": null
+                },
             ]
         },
 
