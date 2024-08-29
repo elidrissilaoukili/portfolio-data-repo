@@ -11,8 +11,14 @@
                 "lib_images\/java-overrding-overloading-3.png",
 
                 "lib_images\/java-overloading-overriding-key-differences.png",
-                "lib_images\/java-compile-time-run-time.png",
+                "lib_images\/java-compile-time-run-time.png"
+            ]
+        },
 
+        {
+            "id": 2,
+            "title": "OOP Java",
+            "lib_data": [
                 "lib_images\/java-polymorphosm-example.png",
 
                 "lib_images\/java-encapsulation-example.png",
@@ -20,16 +26,18 @@
                 "lib_images\/java-encapsulation.png"
             ]
         },
+
         {
-            "id": 2,
+            "id": 20,
             "title": "UML",
             "lib_data": [
                 "lib_images\/uml-class-visibility.png",
                 "lib_images\/uml-relationships-between-classes.png"
             ]
         },
+
         {
-            "id": 3,
+            "id": 30,
             "title": "PHP",
             "lib_data": [
                 "lib_images\/php-stdClass.png"
