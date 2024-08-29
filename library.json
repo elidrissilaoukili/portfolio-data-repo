@@ -2,26 +2,29 @@
     "library": [
         {
             "id": 1,
-            "title": "Overrding & Overloading Java",
+            "title": "Overriding & Overloading Java",
             "lib_data": [
-                "lib_images/overrding-overloading-java-1.png",
-                "lib_images/overrding-overloading-java-2.png",
-                "lib_images/overrding-overloading-java-3.png"
+                "lib_images\/java-overloading-example.png",
+                "lib_images\/java-overloading-overriding-key-differences.png",
+                "lib_images\/java-overrding-overloading-1.png",
+                "lib_images\/java-overrding-overloading-2.png",
+                "lib_images\/java-overrding-overloading-3.png",
+                "lib_images\/java-overriding-example.png"
             ]
         },
         {
             "id": 2,
             "title": "UML",
             "lib_data": [
-                "lib_images/uml-1.png",
-                "lib_images/uml-2.png"
+                "lib_images\/uml-class-visibility.png",
+                "lib_images\/uml-relationships-between-classes.png"
             ]
         },
         {
             "id": 3,
             "title": "PHP",
             "lib_data": [
-                "lib_images/php-stdClass-1.png"
+                "lib_images\/php-stdClass.png"
             ]
         }
     ]
