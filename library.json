@@ -4,12 +4,19 @@
             "id": 1,
             "title": "Overriding & Overloading Java",
             "lib_data": [
+                "lib_images\/java-overriding-example.png",
+                "lib_images\/java-compile-time-run-time - Copy.png",
+                "lib_images\/java-compile-time-run-time.png",
+                "lib_images\/java-encapsulation-example.png",
+                "lib_images\/java-encapsulation-summary.png",
+                "lib_images\/java-encapsulation.png",
                 "lib_images\/java-overloading-example.png",
                 "lib_images\/java-overloading-overriding-key-differences.png",
                 "lib_images\/java-overrding-overloading-1.png",
                 "lib_images\/java-overrding-overloading-2.png",
                 "lib_images\/java-overrding-overloading-3.png",
-                "lib_images\/java-overriding-example.png"
+                "lib_images\/java-overriding-example.png",
+                "lib_images\/java-polymorphosm-example.png"
             ]
         },
         {
@@ -29,3 +36,5 @@
         }
     ]
 }
+
+
