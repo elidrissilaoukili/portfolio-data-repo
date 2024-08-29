@@ -11,7 +11,7 @@
         },
         {
             "id": 2,
-            "title": "UML",
+            "title": "<h1 style={{color:"red", boxShadow:'0 4px 4px 0px rgba(0, 0, 0, 0.5)', border:'1px solid black', borderRaduis:'10px'}} >UML</h1>",
             "lib_data": [
                 "lib_images/uml-1.png",
                 "lib_images/uml-2.png"
