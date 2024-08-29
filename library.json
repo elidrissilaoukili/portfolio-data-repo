@@ -40,7 +40,8 @@
             "id": 30,
             "title": "PHP",
             "lib_data": [
-                "lib_images\/php-stdClass.png"
+                "lib_images\/php-stdClass.png",
+                "lib_images\/php-get-files-names-to-txt.png"
             ]
         }
     ]
