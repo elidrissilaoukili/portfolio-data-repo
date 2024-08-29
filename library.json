@@ -8,6 +8,14 @@
                 "lib_images/overrding-overloading-java-2.png",
                 "lib_images/overrding-overloading-java-3.png"
             ]
+        },
+        {
+            "id": 2,
+            "title": "UML",
+            "lib_data": [
+                "lib_images/uml-1.png",
+                "lib_images/uml-2.png"
+            ]
         }
     ]
 }
