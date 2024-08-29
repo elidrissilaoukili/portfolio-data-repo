@@ -17,5 +17,12 @@
                 "lib_images/uml-2.png"
             ]
         }
+        {
+            "id": 3,
+            "title": "PHP",
+            "lib_data": [
+                "lib_images/php-stdclass-1.png"
+            ]
+        }
     ]
 }
