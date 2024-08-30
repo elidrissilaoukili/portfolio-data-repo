@@ -17,7 +17,7 @@
 
         {
             "id": 2,
-            "title": "OOP Java",
+            "title": "Java Polymorphosm & Encapsulation",
             "lib_data": [
                 "lib_images\/java-polymorphosm-example.png",
 
@@ -26,6 +26,25 @@
                 "lib_images\/java-encapsulation.png"
             ]
         },
+
+        {
+            "id": 3,
+            "title": "Java",
+            "lib_data": [
+                "lib_images\/java-acces-privileges.png"
+            ]
+        },
+
+        {
+            "id": 4,
+            "title": "Java JDBC",
+            "lib_data": [
+                "lib_images\/java-jee-jdbc-add-01.png",
+                "lib_images\/java-jee-jdbc-add-02.png"
+            ]
+        },
+
+
 
         {
             "id": 20,
