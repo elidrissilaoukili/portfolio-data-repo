@@ -67,6 +67,35 @@
       ]
     },
     {
+      "id": "14",
+      "project_name": "Simple Chat App",
+      "added_on": "September 5, 2024",
+      "description": "Simple chat app one to one messaging, with no server socket, base on mysql and fetch apis database.",
+      "hosted_link": null,
+      "src_code": null,
+      "default_image": "/images/chat-app-one-to-one-08-default_image.png",
+      "demo_video": null,
+      "demo_images": [
+        "/images/chat-app-one-to-one-08-default_image.png",
+        "/images/chat-app-one-to-one-01.png",
+        "/images/chat-app-one-to-one-02.png",
+        "/images/chat-app-one-to-one-03.png",
+        "/images/chat-app-one-to-one-04.png",
+        "/images/chat-app-one-to-one-05.png",
+        "/images/chat-app-one-to-one-06.png",
+        "/images/chat-app-one-to-one-07.png"
+      ],
+      "used_technologies": [
+        "PHP/Laravel",
+        "MySQL",
+        "Material UI",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+
+    {
       "id": "3",
       "project_name": "login interface for students (clone)",
       "added_on": "Jul 04, 2024",
