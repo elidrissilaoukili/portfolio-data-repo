@@ -86,7 +86,8 @@
         "/images/chat-app-one-to-one-07.png"
       ],
       "used_technologies": [
-        "PHP/Laravel",
+        "PHP",
+        "Laravel",
         "MySQL",
         "Material UI",
         "HTML",
