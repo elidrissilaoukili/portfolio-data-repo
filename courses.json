@@ -120,8 +120,26 @@
         "date_completed": "August 22, 2024",
         "tags": ["RegEx"]
       },
-
-
+      {
+        "id": "13",
+        "course_title": "Full Modern React Tutorial",
+        "platform": "YouTube",
+        "instructor": "by Net Ninja",
+        "duration": "03:13:58",
+        "description": "Full React tutorial series",
+        "date_completed": "February 2024",
+        "tags": ["React"]
+      },
+      {
+        "id": "14",
+        "course_title": "React Tutorial for Beginners",
+        "platform": "YouTube",
+        "instructor": "Mosh Hamedani",
+        "duration": "1:20:03",
+        "description": "Full React tutorial series",
+        "date_completed": "January 2024",
+        "tags": ["React"]
+      },
 
 
       {
